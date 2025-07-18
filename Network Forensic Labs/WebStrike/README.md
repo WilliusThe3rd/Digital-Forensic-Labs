@@ -16,4 +16,5 @@ flowing the stream
 lastly discovering the port used in the attack and the file the attacker attempted to exfiltrate
 <img src="https://github.com/WilliusThe3rd/Digital-Forensic-Labs/blob/main/Network%20Forensic%20Labs/WebStrike/image%20(5).png">
 <img src="https://github.com/WilliusThe3rd/Digital-Forensic-Labs/blob/main/Network%20Forensic%20Labs/WebStrike/image%20(6).png">
+In this case it was the passwd file as shown below
 <img src="https://github.com/WilliusThe3rd/Digital-Forensic-Labs/blob/main/Network%20Forensic%20Labs/WebStrike/image%20(7).png">
