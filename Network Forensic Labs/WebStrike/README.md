@@ -9,6 +9,11 @@ Finding the webshell used by the attacker and verifying it was successful by inv
 <img src="https://github.com/WilliusThe3rd/Digital-Forensic-Labs/blob/main/Network%20Forensic%20Labs/WebStrike/image%20(2).png">
 
 To track down the directory used by the attacker to store the uploaded files by filtering by the file name
+<img src="https://github.com/WilliusThe3rd/Digital-Forensic-Labs/blob/main/Network%20Forensic%20Labs/WebStrike/image%20(3).png">
+flowing the stream
+<img src="https://github.com/WilliusThe3rd/Digital-Forensic-Labs/blob/main/Network%20Forensic%20Labs/WebStrike/image%20(4).png">
 
 lastly discovering the port used in the attack and the file the attacker attempted to exfiltrate
-
+<img src="https://github.com/WilliusThe3rd/Digital-Forensic-Labs/blob/main/Network%20Forensic%20Labs/WebStrike/image%20(5).png">
+<img src="https://github.com/WilliusThe3rd/Digital-Forensic-Labs/blob/main/Network%20Forensic%20Labs/WebStrike/image%20(6).png">
+<img src="https://github.com/WilliusThe3rd/Digital-Forensic-Labs/blob/main/Network%20Forensic%20Labs/WebStrike/image%20(7).png">
